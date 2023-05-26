@@ -1,0 +1,13 @@
+footer {
+	color: #000000;
+	height: 60px;
+	width: 100%;
+	border-top:1px solid #CCCCCC;
+	bottom: 0;
+	position: absolute;
+}
+
+footer p {
+	text-align: center;
+	line-height: 30p;
+}
